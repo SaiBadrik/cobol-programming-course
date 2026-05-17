@@ -23,6 +23,7 @@
        100-MAIN.
            PERFORM UNTIL MORE-DATA = 'NO '
                DISPLAY 'ENTER NAME       (15 CHARACTERS)'
+               DISPLAY 'EDITED BY SAI BADRIK AND MOM (PRATHYUSHA)'
                ACCEPT CUST-NO-IN
                DISPLAY 'Enter amount of first purchase (5 digits)'
                ACCEPT AMT1-IN
